@@ -1,1 +1,1 @@
-# lingo-tr-mobile
+<README.md içeriği buraya gelecek>
