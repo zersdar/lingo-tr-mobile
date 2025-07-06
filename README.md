@@ -1,1 +1,0 @@
-<README.md içeriği buraya gelecek>
